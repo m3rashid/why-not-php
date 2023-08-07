@@ -1,0 +1,13 @@
+{
+    "name": "genos/why-not-php",
+    "description": "Getting refreshed at PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "m3rashid",
+            "email": "m3rashid.hussain@gmail.com"
+        }
+    ],
+    "require": {}
+}
